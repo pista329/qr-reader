@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "QR Reader",
+    "description": "Reads QR code and opens up the url in webview.",
+    "slug": "qr-reader",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
